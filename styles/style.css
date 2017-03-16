@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 1024px;
+
+}
+
+header,
+footer,
+div {
+    border: 1px solid black;
+    background: lightgreen;
+    width: 950px;
+    margin: 0 auto;
+    min-height: 250px;
+}
+
+header {
+    width: 950px;
+    min-height: ;
+}
