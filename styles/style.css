@@ -1,21 +1,23 @@
 body {
     margin: 0;
     padding: 0;
-    width: 1024px;
 
 }
 
 header,
 footer,
-div {
+.container {
     border: 1px solid black;
-    background: lightgreen;
-    width: 950px;
+    width: 1024px;
     margin: 0 auto;
-    min-height: 250px;
+    padding: 0 37px;
 }
 
 header {
-    width: 950px;
-    min-height: ;
+    background: powderblue;
+}
+
+.logo {
+    min-height: 220px;
+
 }
