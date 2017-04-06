@@ -68,11 +68,11 @@ body {
 
 .central-feature-item h2 {
     font-size: 48px;
-    font-weight: 100;
+    font-weight: 400;
     font-family: "Open Sans";
     text-transform: uppercase;
     text-align: center;
-    vertical-align: 300px;
+    margin-top: 85px;
 }
 
 .feature-item:last-child {
