@@ -63,10 +63,16 @@ body {
     background: none #BDA680;
     color: #ffffff;
     /*шрифт потом можно объединить*/
-    font-size: 28px;
+
+}
+
+.central-feature-item h2 {
+    font-size: 48px;
     font-weight: 100;
     font-family: "Open Sans";
     text-transform: uppercase;
+    text-align: center;
+    vertical-align: 300px;
 }
 
 .feature-item:last-child {
