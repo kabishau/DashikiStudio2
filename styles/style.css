@@ -25,11 +25,44 @@ body {
     box-sizing: border-box;
 }
 
+.header-page {
+    border-bottom: 1px solid #BCA57E;
+    margin-bottom: 12px;
+}
 
 .main-menu {
     float: left;
+    width: 900px;
+
+
+    /*height: 38px;*/
 
 }
+
+.main-menu a {
+    display: block;
+    width: 125px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #A6A399;
+    text-align: left;
+    padding: 9px 0;
+}
+
+.main-menu ul {
+    list-style: none;
+    /*убрать пробелы между li*/
+    font-size: 0;
+    padding-left: 225px;
+}
+
+.main-menu li {
+    display: inline-block;
+    /*восстанавливаем font-size после обнуления в ul*/
+    font-size: 20px;
+    /*line-height: 38px;*/
+}
+
 .basket {
     float: right;
     width: 50px;
@@ -92,6 +125,15 @@ body {
     margin-right: 0;
 }
 
+.new-dolls {
+    text-align: center;
+    text-transform: uppercase;
+    color: #A6A399;
+    font-size: 20px;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+
 .new-items {
     margin-bottom: 50px;
 }
@@ -107,6 +149,8 @@ body {
     margin-right: auto;
     margin-top: 40px;
     text-align: center;
+    color: #BCA57E;
+    font-size: 14px;
 }
 
 

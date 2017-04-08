@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>basket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="24" font-family="FontAwesome" font-weight="normal">
+        <g id="HOME" transform="translate(-959.000000, -225.000000)" fill="#EDCFDF">
+            <g id="menu" transform="translate(37.000000, 221.000000)">
+                <text id="basket">
+                    <tspan x="922" y="25"></tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
